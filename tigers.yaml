@@ -4,7 +4,11 @@ manager: John
 
 members:
 - BaEK
+<<<<<<< HEAD
 - George
-
-
+=======
 - William=- Davidgitbg
+>>>>>>> add-coach
+
+coach:
+- Grace
